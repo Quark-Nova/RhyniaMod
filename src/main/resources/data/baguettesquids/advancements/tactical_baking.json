@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "baguettesquids:breadsquid_item"
+    },
+    "title": {
+      "translate": "advancements.tactical_baking.title"
+    },
+    "description": {
+      "translate": "advancements.tactical_baking.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tactical_baking": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "baguettesquids:breadsquid_item"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "minecraft:husbandry/tactical_fishing"
+}

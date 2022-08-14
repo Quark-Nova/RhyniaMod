@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="baguettesquids"
+version="1.0.0"
+displayName="Baguettesquids"
+credits="Created by y'all beloved Quark"
+displayURL="https://mcreator.net"
+authors="Quark-Nova (with MCreator)"
+description='''
+Adds baguettesquids (Trimeroceras sp.) as a mob and item to the game!
+'''
+
+[[dependencies.baguettesquids]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

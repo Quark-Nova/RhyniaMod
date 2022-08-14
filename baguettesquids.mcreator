@@ -1,0 +1,160 @@
+{
+  "mod_elements": [
+    {
+      "name": "Baguettesquid",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baguettesquid"
+    },
+    {
+      "name": "BaguettesquidItem",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "baguettesquid_item"
+    },
+    {
+      "name": "BreadsquidItem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "breadsquid_item"
+    },
+    {
+      "name": "SquidCooking",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "squid_cooking"
+    },
+    {
+      "name": "TacticalBaking",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tactical_baking"
+    },
+    {
+      "name": "BoomerangHopper",
+      "type": "livingentity",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boomerang_hopper"
+    },
+    {
+      "name": "ChimaeraFly",
+      "type": "livingentity",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chimaera_fly"
+    },
+    {
+      "name": "Rammer",
+      "type": "livingentity",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rammer"
+    },
+    {
+      "name": "Ferntail",
+      "type": "livingentity",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ferntail"
+    },
+    {
+      "name": "Panzerdach",
+      "type": "livingentity",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "panzerdach"
+    },
+    {
+      "name": "Airtrawler",
+      "type": "livingentity",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "airtrawler"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.tactical_baking.title": "Tactical Baking",
+      "item.baguettesquids.boomerang_hopper_spawn_egg": "Boomerang Hopper Spawn Egg",
+      "item.baguettesquids.breadsquid_item": "Breadsquid",
+      "entity.baguettesquids.airtrawler": "Airtrawler",
+      "item.baguettesquids.chimaera_fly_spawn_egg": "Chimaera Fly Spawn Egg",
+      "item.baguettesquids.airtrawler_spawn_egg": "Airtrawler Spawn Egg",
+      "item.baguettesquids.baguettesquid_item": "Baguettesquid",
+      "entity.baguettesquids.baguettesquid": "Baguettesquid",
+      "entity.baguettesquids.chimaera_fly": "Chimaera Fly",
+      "entity.baguettesquids.boomerang_hopper": "Boomerang Hopper",
+      "entity.baguettesquids.ferntail": "Ferntail",
+      "advancements.tactical_baking.descr": "Catch a baguettesquid in a bucket and bake it on the spot!",
+      "item.baguettesquids.baguettesquid_spawn_egg": "Baguettesquid Spawn Egg",
+      "entity.baguettesquids.rammer": "Rammer",
+      "item.baguettesquids.ferntail_spawn_egg": "Ferntail Spawn Egg",
+      "item.baguettesquids.panzerdach_spawn_egg": "Panzerdach Spawn Egg",
+      "entity.baguettesquids.panzerdach": "Panzerdach",
+      "item.baguettesquids.rammer_spawn_egg": "Rammer Spawn Egg"
+    },
+    "fr_fr": {
+      "advancements.tactical_baking.title": "Cuisson tactique",
+      "item.baguettesquids.boomerang_hopper_spawn_egg": "Œuf d\u0027apparition de sauteur",
+      "item.baguettesquids.breadsquid_item": "Calamar-pain",
+      "entity.baguettesquids.airtrawler": "Airtrawler",
+      "item.baguettesquids.chimaera_fly_spawn_egg": "Œuf d\u0027apparition de chimère volante",
+      "item.baguettesquids.airtrawler_spawn_egg": "Airtrawler Spawn Egg",
+      "item.baguettesquids.baguettesquid_item": "Calamar-baguette",
+      "entity.baguettesquids.baguettesquid": "Calamar-baguette",
+      "entity.baguettesquids.chimaera_fly": "Chimère volante",
+      "entity.baguettesquids.boomerang_hopper": "Sauteur",
+      "entity.baguettesquids.ferntail": "Ferntail",
+      "advancements.tactical_baking.descr": "Attrapez un calamar-baguette dans un seau et cuisez-le sur place!",
+      "item.baguettesquids.baguettesquid_spawn_egg": "Œuf d\u0027apparition de calamar-baguette",
+      "entity.baguettesquids.rammer": "Rammer",
+      "item.baguettesquids.ferntail_spawn_egg": "Ferntail Spawn Egg",
+      "item.baguettesquids.panzerdach_spawn_egg": "Panzerdach Spawn Egg",
+      "entity.baguettesquids.panzerdach": "Panzerdach",
+      "item.baguettesquids.rammer_spawn_egg": "Rammer Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "baguettesquids",
+    "modName": "Baguettesquids",
+    "version": "1.0.0",
+    "description": "Adds baguettesquids (Trimeroceras sp.) as a mob and item to the game!",
+    "author": "Quark-Nova (with MCreator)",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created by y\u0027all beloved Quark",
+    "modElementsPackage": "net.mcreator.baguettesquids",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
